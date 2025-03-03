@@ -31,8 +31,8 @@ A Streamlit-based web application powered by **Google Gemini 2.0** that helps us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/knowledge-evaluator.git
-   cd knowledge-evaluator
+   git clone https://github.com/vaarrun009/knowledge-diary.git
+   cd knowledge-dairy
    ```
 2. Create a virtual environment and activate it:
    ```bash
@@ -49,7 +49,7 @@ A Streamlit-based web application powered by **Google Gemini 2.0** that helps us
    ```
 5. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run tutor.py
    ```
 
 ## 🎯 How to Use
