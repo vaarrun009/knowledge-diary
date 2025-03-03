@@ -153,7 +153,7 @@ st.markdown("""
 
 
 # Initialize the Google GenAI client using your API key
-api_key = 'AIzaSyDTPpPCI9pxhYefDAxOc048KltxND33Tac'
+api_key = 'Enter your Google API key'
 if not api_key:
     st.error("Please set your GOOGLE_API_KEY environment variable.")
     st.stop()
