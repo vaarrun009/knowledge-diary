@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+pydantic
+os
+json
+datetime
