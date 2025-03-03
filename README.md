@@ -1,4 +1,4 @@
-# Knowledge Evaluator 🧠
+# Knowledge Dairy 🧠
 
 A Streamlit-based web application powered by **Google Gemini 2.0** that helps users evaluate their knowledge files and receive AI-generated feedback. This tool provides insights into what's correct, what's incorrect, and recommendations for improvement.
 
