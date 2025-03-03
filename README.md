@@ -76,4 +76,4 @@ We welcome contributions! Feel free to open issues or submit pull requests.
 ---
 ### 🔗 Connect
 
-🌐 [GitHub](https://github.com/your-username) | 📧 Email: your-email@example.com
+🌐 [GitHub](https://github.com/varrun009) | 📧 Email: varun.reddy.gangireddygari@gmail.com
